@@ -27,7 +27,7 @@ SECRET_KEY = 'euji6@=t!u5@pkg*b%yf4z58t$l2ver(!+=vghyvonkcnldsjz'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1', 'card-request.herokuapp.com']
+ALLOWED_HOSTS = [".herokuapp.com", ".researchthroughdesign.org"]
 
 
 # Application definition
